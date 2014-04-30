@@ -2,35 +2,37 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>8D0CB63F-EDCA-4F85-AF2C-4C64EAFE8F2E</string>
+	<string>758FBA29-5C81-4C22-84F0-2E2563F05F13</string>
 	<key>IDESourceControlProjectName</key>
 	<string>PingMenu</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>72D60F9D-BE25-49C0-BD29-959F89AAC4B7</key>
-		<string>https://github.com/kalleboo/PingMenu.git</string>
+		<key>E766BD02-5959-4C63-9A33-E1A5166D32E0</key>
+		<string>https://github.com/XYZeb/PingMenu.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>PingMenu.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>72D60F9D-BE25-49C0-BD29-959F89AAC4B7</key>
+		<key>E766BD02-5959-4C63-9A33-E1A5166D32E0</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/kalleboo/PingMenu.git</string>
+	<string>https://github.com/XYZeb/PingMenu.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>72D60F9D-BE25-49C0-BD29-959F89AAC4B7</string>
+	<string>E766BD02-5959-4C63-9A33-E1A5166D32E0</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>72D60F9D-BE25-49C0-BD29-959F89AAC4B7</string>
+			<string>E766BD02-5959-4C63-9A33-E1A5166D32E0</string>
 			<key>IDESourceControlWCCName</key>
 			<string>PingMenu</string>
 		</dict>

@@ -58,7 +58,6 @@
 			isa = PBXGroup;
 			children = (
 				12C9F8C113E6549300739017 /* PingMenu */,
-				12C9F8BA13E6549300739017 /* Frameworks */,
 				12C9F8B813E6549300739017 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -78,6 +77,7 @@
 				12C9F8BD13E6549300739017 /* Other Frameworks */,
 			);
 			name = Frameworks;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		12C9F8BD13E6549300739017 /* Other Frameworks */ = {
@@ -98,6 +98,7 @@
 				1148067E18809A0100FE8318 /* PreferencesWindowController.xib */,
 				12C9F8CD13E6549300739017 /* PingMenuAppDelegate.h */,
 				12C9F8CE13E6549300739017 /* PingMenuAppDelegate.m */,
+				12C9F8BA13E6549300739017 /* Frameworks */,
 				12C9F8D013E6549300739017 /* MainMenu.xib */,
 				12C9F8DC13E6586600739017 /* SimplePing.h */,
 				12C9F8DD13E6586600739017 /* SimplePing.m */,
